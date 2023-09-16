@@ -1,0 +1,128 @@
+[
+    {
+        "product_id": "PRD001",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWrR0ztnVFqfhwyOoixK0udwI93rMfLA5m546zdH5RFz1qEXsHwuI3Jz7YX4TYkxrRdI&usqp=CAU",
+        "product_price": 29.99,
+        "product_name": "Shampoo & Lotion"
+    },
+    {
+        "product_id": "PRD002",
+        "product_img": "https://media.istockphoto.com/id/1370669395/photo/different-hair-care-products-on-wooden-table.webp?b=1&s=170667a&w=0&k=20&c=-VKPETob_3F361SvnatkwIYWjipBZKloBtgm1jsKmf4=",
+        "product_price": 19.99,
+        "product_name": "facial cream"
+    },
+    {
+        "product_id": "PRD003",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_d9b08QZFfvASjnZ_g4ep3uEYBfiPZ9-_A&usqp=CAU",
+        "product_price": 39.99,
+        "product_name": "hair conditioners"
+    },
+    {
+        "product_id": "PRD004",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFm5nikxaFsKROug-9ukvUGAK0jGPNIslW6w&usqp=CAU",
+        "product_price": 49.99,
+        "product_name": "Eye leap "
+    },
+    {
+        "product_id": "PRD005",
+        "product_img": "https://static-bebeautiful-in.unileverservices.com/5-REAS~2.JPG",
+        "product_price": 24.99,
+        "product_name": "whiting cream"
+    },
+    {
+        "product_id": "PRD006",
+        "product_img": "https://images.prismic.io/ozhairandbeauty/efc6efe4-07c7-40cb-b37a-d54c99506c39_HAIRCARE_BESTSELLERS.jpg?auto=compress,format",
+        "product_price": 34.99,
+        "product_name": "serum"
+    },
+    {
+        "product_id": "PRD007",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUh8TxfULodpRy7ifHatCn_oL_4F_18nzVkg&usqp=CAU",
+        "product_price": 44.99,
+        "product_name": "Eye shadow "
+    },
+    {
+        "product_id": "PRD008",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZd17T9we-zd3qehrR6kI-CvMvUchNIbMtgqEBaNEyxeTFv3rB0P2mztvQtZtJLu9YvI&usqp=CAU",
+        "product_price": 14.99,
+        "product_name": "pimple removal"
+    },
+    {
+        "product_id": "PRD009",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWrR0ztnVFqfhwyOoixK0udwI93rMfLA5m546zdH5RFz1qEXsHwuI3Jz7YX4TYkxrRdI&usqp=CAU",
+        "product_price": 19.99,
+        "product_name": "loution & sampoo pack"
+    },
+    {
+        "product_id": "PRD010",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYpWF1YiItac6aSZArElstz_6iqOejlune1g&usqp=CAU",
+        "product_price": 59.99,
+        "product_name": "Nail color"
+    },
+    {
+        "product_id": "PRD011",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSliyJvdqyQapO8sIc4IE3t4UBeFZMqGpOVtg&usqp=CAU",
+        "product_price": 9.99,
+        "product_name": "Make up set"
+    },
+    {
+        "product_id": "PRD012",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODLerx0Got6VO5nyw_eUqT2ATqv_FK1kB9w&usqp=CAU",
+        "product_price": 29.99,
+        "product_name": "lipsticks and brush"
+    },
+    {
+        "product_id": "PRD013",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFHnjl3mMoU_jP2a9kjQXKmZLrD_gg6ICFUg&usqp=CAU",
+        "product_price": 39.99,
+        "product_name": "hair care products"
+    },
+    {
+        "product_id": "PRD014",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ugCox4WeVF2wIZETKouTcjb6OKmG-L_puw&usqp=CAU",
+        "product_price": 19.99,
+        "product_name": "anti dry cream"
+    },
+    {
+        "product_id": "PRD015",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6P07XlUsF0Bpi4CepdMpFn3fvh0od3MghaA&usqp=CAU",
+        "product_price": 54.99,
+        "product_name": "Make up box"
+    },
+    {
+        "product_id": "PRD016",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg3Ux0c7VHWVwgLOI7hkzMX04RSiYhNnFLbg&usqp=CAU",
+        "product_price": 24.99,
+        "product_name": "Widget P"
+    },
+    {
+        "product_id": "PRD017",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_scRDFFTZThPXE_LvWPPKDHYfgAu9B1ucg&usqp=CAU",
+        "product_price": 29.99,
+        "product_name": "Doodad Q"
+    },
+    {
+        "product_id": "PRD018",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJ5z9VsFfmS9H0X4Sq5uLf7hDCucB9JeZZw&usqp=CAU",
+        "product_price": 14.99,
+        "product_name": "Gizmo R"
+    },
+    {
+        "product_id": "PRD019",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUtvRLJIjdI73jIuYdqV3Du6Hw8pNzI2QrCg&usqp=CAU",
+        "product_price": 49.99,
+        "product_name": "Contraption S"
+    },
+    {
+        "product_id": "PRD020",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_arulWwleJZgOd4ns9Tz4B20CT9bZ-B1IMA&usqp=CAU",
+        "product_price": 39.99,
+        "product_name": "Gadget T"
+    },
+    {
+        "product_id": "PRD021",
+        "product_img": "https://thumbs.dreamstime.com/b/set-care-beauty-products-skin-29817248.jpg",
+        "product_price": 99.99,
+        "product_name": "Gadget g"
+    }
+]
